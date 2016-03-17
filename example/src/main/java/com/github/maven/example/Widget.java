@@ -31,6 +31,7 @@ public class Widget {
 	 */
 	public Widget setEnabled(boolean enabled) {
 		this.enabled = enabled;
-		return this;
+		return enabled;
+		/*i love raj*/
 	}
 }
